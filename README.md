@@ -59,7 +59,7 @@ The NDA becomes binding without further action.
 Obligations apply for the duration of the Term.
 
 **ADEQUATE NOTICE TEMPLATE**
-“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access it means you agree to its terms for a period of 3 years from today. You can access a copy of OPEN NDA at: https://github.com/thatlawyerfellow/OpenNDA/blob/main/v1.”
+“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access it means you agree to its terms for a period of 3 years from today. You can access a copy of OPEN NDA at: [https://github.com/thatlawyerfellow/OpenNDA/blob/main/v0.1-BETA].”
 
 **PLACEMENT RULES**
 Documents (PDF/DOC): Put the notice on page 1
