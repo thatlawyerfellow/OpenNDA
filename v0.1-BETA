@@ -1,4 +1,4 @@
-OPEN-NDA-V. 0.1
+OPEN-NDA-V. 0.1 - BETA 
 
 1.	This Non-Disclosure Agreement shall come in force the day the Sender and the Recipient have completed their acceptance of this NDA in accordance with the law.
 
@@ -17,26 +17,29 @@ OPEN-NDA-V. 0.1
 8.	If a Party has specified in the Adequate Notice that this NDA shall only be governed by the laws of a particular jurisdiction, then this NDA shall be construed and governed in accordance with the laws of that jurisdiction.
 
 
-9.	The terms outlined in the Adequate Notice accompanying this NDA shall form a part of this NDA. 
+9.	The terms outlined in the Adequate Notice accompanying this NDA shall form a part of this NDA. If there are any terms in the Adequate Notice, which are in addition to the form outlined in the Schedule, and that are in consistent with the terms of this NDA, then the terms outlined in the Adequate Notice shall prevail. 
 
-10.	Where a copy of this NDA is accompanied by Media containing Confidential Information and the Sender has provided Adequate Notice of this NDA, Acceptance shall be complete upon the Recipient accessing the contents of the Media containing the NDA beyond the Adequate Notice.
+10.	Where the Adequate Notice provides variations of this NDA using the format and terminology the details of which are in the Schedule to this NDA then the NDA shall stand varied and modified in accordance with the terms outlined by that format and terminology and be construed accordingly.. 
 
-11.	This NDA shall expire at the end of the Term but shall continue to be governed by its Governing Law and disputes continue remain subject to the Governing Jurisdiction. Where parts of this NDA are found unenforceable by law, the other parts shall remain enforceable. Failing to enforce rights under this NDA shall not be taken as a waiver of any rights under this NDA.  
+11.	Where a copy of this NDA is accompanied by Media containing Confidential Information and the Sender has provided Adequate Notice of this NDA, Acceptance shall be complete upon the Recipient accessing the contents of the Media containing the NDA beyond the Adequate Notice.
+
+12.	This NDA shall expire at the end of the Term but shall continue to be governed by its Governing Law and disputes continue remain subject to the Governing Jurisdiction. Where parts of this NDA are found unenforceable by law, the other parts shall remain enforceable. Failing to enforce rights under this NDA shall not be taken as a waiver of any rights under this NDA.  
  
-12.	In this NDA the following words have the following meanings and are to be read and construed accordingly:
-a.	Governing Law: The laws the Parties have agreed governs this NDA.
-b.	Governing Jurisdiction: The place where disputes under this NDA may be brought. 
-c.	Term: The period for which this NDA is valid. The Term is as specified in the Adequate Notice, and if the Adequate Notice is silent, the Term is 3 years from the Start Date. 
-d.	Start Date: The date on which the Sender sent the Media to the Recipient. 
-e.	Media: The medium that contains the Confidential Information and the Adequate Notice, which medium may be physical, digital or otherwise and allows the Confidential Information to be accessed or retrieved. 
-f.	Confidential Information: Any information that is designated as confidential or proprietary, or that a reasonable person would understand to be confidential or proprietary under the circumstances. Confidential Information does not include information, technical data, or know-how that was already in a party’s possession prior to disclosure, as evidenced by written records; or becomes part of the public domain through no improper action or inaction of the party who received it. 
-g.	Sender: Person who provided the Media and conveyed to the Recipient. 
-h.	Recipient: Person who received the Media
-i.	Adequate Notice: Notice provided in the form and manner provided in the Schedule to this NDA which may either accompany the Media or forming a part of the Media  
-j.	Recipient: Person who received the Media 
-k.	Date: The Day the Sender and the Recipient have completed their acceptance of this NDA in accordance with the Law(s)
-l.	Acceptance: The date on which the Recipient signifies asset to be bound by this NDA.
-m.	NDA: shall mean this Non-Disclosure-Agreement. 
+13.	In this NDA the following words have the following meanings and are to be read and construed accordingly:
+a.	Acceptance: The date on which the Recipient signifies asset to be bound by this NDA.
+b.	Adequate Notice: Notice provided in the form and manner provided in the Schedule to this NDA which may either accompany the Media or forming a part of the Media. The Adequate Notice shall be in the English Language and in the event the Confidential Information is in a language or languages other than English than in any one of those languages. It shall contain a hyperlink to this NDA.
+c.	Confidential Information: Any information that is designated as confidential or proprietary, or that a reasonable person would understand to be confidential or proprietary under the circumstances. Confidential Information does not include information, technical data, or know-how that was already in a party’s possession prior to disclosure, as evidenced by written records; or becomes part of the public domain through no improper action or inaction of the party who received it. 
+d.	Date: The Day the Sender and the Recipient have completed their acceptance of this NDA in accordance with the Law(s)
+e.	Governing Jurisdiction: The place where disputes under this NDA may be brought. 
+f.	Governing Law: The laws the Parties have agreed governs this NDA.
+g.	Media: The medium that contains the Confidential Information and the Adequate Notice, which medium may be physical, digital or otherwise and allows the Confidential Information to be accessed or retrieved. 
+h.	NDA: shall mean this Non-Disclosure-Agreement. 
+i.	Party: shall mean either the Sender or the Recipient. 
+j.	Recipient: Person who received the Media
+k.	Recipient: Person who received the Media 
+l.	Sender: Person who provided the Media and conveyed to the Recipient. 
+m.	Start Date: The date on which the Sender sent the Media to the Recipient. 
+n.	Term: The period for which this NDA is valid. The Term is as specified in the Adequate Notice, and if the Adequate Notice is silent, the Term is 3 years from the Start Date. 
 SCHEDULE
 FORM OF ADEQUATE NOTICE
 1.	The form of Adequate Notice is as follows:
@@ -61,7 +64,7 @@ Modifications:
 
 To exercise rights of exception under the NDA a Sender may vary the Notice as follows:
 
-“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access is means you agree to its terms for a period of 3 years from today. You can access a copy of OPEN NDA -RC-RB-SJ-SL-T5 at: https://github.com/thatlawyerfellow/OpenNDA/blob/main/v1.” 
+“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access is means you agree to its terms for a period of 3 years from today. You can access a copy of OPEN NDA -RC-RB-SJ-SL-T5 at: https://github.com/thatlawyerfellow/OpenNDA/blob/main/v0.1-BETA”
 
 Where: 
 RC: Recipient Confidential [Recipients Information is not treated as confidential, but the Recipient must treat sender’s information as confidential]
@@ -84,6 +87,8 @@ L: Law
 J: Jurisdiction
 T: Term
 
-For Law and Jurisdiction any of the UPU Codes for nations may be used. In countries with more than one jurisdiction please specify the relevant ISO3166 subdivision code. Where a party has specified GB or UK, it will be treated as the Party having specified England and Wales unless the party has specified otherwise. 
+For Law and Jurisdiction any of the ITU codes for nations may be used. In countries with more than one jurisdiction please specify the relevant ISO3166 subdivision code. I.e. GB-EN for England. 
+
+Note: Where a Party has specified GB or UK, it will be treated as the Party having specified England and Wales unless the party has specified otherwise. Where a Party has specified US only it will be treated as having chosen US-NY
 
 
