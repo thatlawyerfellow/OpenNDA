@@ -1,6 +1,8 @@
 **OPEN NDA**
 Version 0.1
 
+**THE OPEN NDA IS IN BETA. KINDLY DO NOT USE IT TILL IT IS READY. IT IS UP TODAY FOR COMMENTS AND CONTRIBUTIONS SO WE CAN CLOSE THE DRAFT**
+
 **DESCRIPTION**
 OpenNDA is a universal, Creative-Commons-style Non-Disclosure Agreement that applies automatically when the Recipient opens the media containing confidential information. No signatures, no negotiation, no back-and-forth. The Sender affixes the Adequate Notice, the Recipient accesses the content, and the NDA is in force. Simple, portable, and enforceable.
 This repository hosts the official text: https://github.com/thatlawyerfellow/OpenNDA/blob/main/v1
