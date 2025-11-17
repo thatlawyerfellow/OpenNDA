@@ -1,0 +1,89 @@
+OPEN-NDA-V. 0.1
+
+1.	This Non-Disclosure Agreement shall come in force the day the Sender and the Recipient have completed their acceptance of this NDA in accordance with the law.
+
+2.	Unless otherwise agreed, during the Term of this NDA, the Sender and the Recipient agree to keep all Confidential Information secret and treat them in the highest confidence.  They shall not disclose the Confidential Information to any person unless ordered to do so by the authority of law. 
+
+3.	Unless otherwise agreed, during the Term of this NDA, the Sender and the Recipient, shall not profit, commercialize, work or use the Confidential Information. They shall only use the Confidential Information for the Shared Purposes. 
+ 
+4.	Unless otherwise agreed during the Term of this NDA, the Sender agree not to solicit employees, customers, vendors or contractors of the other or cause or attempt to anyone to cease doing business or trade with other. 
+ 
+5.	The Sender and the Recipient agree that this NDA may be enforced via injunctive relief as monetary damages would not be adequate compensation. Unless agreed otherwise this NDA may be enforced in either the jurisdiction of the Sender or the Recipient.
+
+6.	If a Party has specified in the Adequate Notice that obligations any of the aforesaid clauses namely Clause 3, Clause 4 shall apply only to the other Party, then this NDA shall be construed according to those modification. 
+
+7.	If a Party has specified in the Adequate Notice that this NDA shall only be enforceable in a jurisdiction, then this NDA shall be construed according to those modifications and disputes under this NDA shall solely be brought before courts of that jurisdiction.  
+
+8.	If a Party has specified in the Adequate Notice that this NDA shall only be governed by the laws of a particular jurisdiction, then this NDA shall be construed and governed in accordance with the laws of that jurisdiction.
+
+
+9.	The terms outlined in the Adequate Notice accompanying this NDA shall form a part of this NDA. 
+
+10.	Where a copy of this NDA is accompanied by Media containing Confidential Information and the Sender has provided Adequate Notice of this NDA, Acceptance shall be complete upon the Recipient accessing the contents of the Media containing the NDA beyond the Adequate Notice.
+
+11.	This NDA shall expire at the end of the Term but shall continue to be governed by its Governing Law and disputes continue remain subject to the Governing Jurisdiction. Where parts of this NDA are found unenforceable by law, the other parts shall remain enforceable. Failing to enforce rights under this NDA shall not be taken as a waiver of any rights under this NDA.  
+ 
+12.	In this NDA the following words have the following meanings and are to be read and construed accordingly:
+a.	Governing Law: The laws the Parties have agreed governs this NDA.
+b.	Governing Jurisdiction: The place where disputes under this NDA may be brought. 
+c.	Term: The period for which this NDA is valid. The Term is as specified in the Adequate Notice, and if the Adequate Notice is silent, the Term is 3 years from the Start Date. 
+d.	Start Date: The date on which the Sender sent the Media to the Recipient. 
+e.	Media: The medium that contains the Confidential Information and the Adequate Notice, which medium may be physical, digital or otherwise and allows the Confidential Information to be accessed or retrieved. 
+f.	Confidential Information: Any information that is designated as confidential or proprietary, or that a reasonable person would understand to be confidential or proprietary under the circumstances. Confidential Information does not include information, technical data, or know-how that was already in a party’s possession prior to disclosure, as evidenced by written records; or becomes part of the public domain through no improper action or inaction of the party who received it. 
+g.	Sender: Person who provided the Media and conveyed to the Recipient. 
+h.	Recipient: Person who received the Media
+i.	Adequate Notice: Notice provided in the form and manner provided in the Schedule to this NDA which may either accompany the Media or forming a part of the Media  
+j.	Recipient: Person who received the Media 
+k.	Date: The Day the Sender and the Recipient have completed their acceptance of this NDA in accordance with the Law(s)
+l.	Acceptance: The date on which the Recipient signifies asset to be bound by this NDA.
+m.	NDA: shall mean this Non-Disclosure-Agreement. 
+SCHEDULE
+FORM OF ADEQUATE NOTICE
+1.	The form of Adequate Notice is as follows:
+
+“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access is means you agree to its terms for a period of _______ years from today. You can access a copy of OPEN NDA at: http://________________________.”  
+
+2.	Placement: 
+
+In case of documents or text works, the notice must be included in the first page before the Confidential Information begins. 
+
+In case of spreadsheets, the first sheet must contain only this notice and must be marked as “NOTICE”
+
+In case of Power Point presentations must be included in the first slide before the Confidential Information begins. 
+
+In case of Video Content, a readable copy of the notice must be included in the first 10 seconds before the Confidential Information Begins.
+
+In case of Audio Content an audible of the notice must be included in the first 10 seconds before the Confidential Information Begins.
+
+In call cases, where the confidential information is provided in a Media capable of storing a machine-readable copy of this NDA, the Media must be accompanied by such rendering. 
+
+Modifications:
+
+To exercise rights of exception under the NDA a Sender may vary the Notice as follows:
+
+“The information contained in this medium is subject to the terms of the OPEN NDA. Continuing to access is means you agree to its terms for a period of ______ years from today. You can access a copy of OPEN NDA -RC-RB-SJ-SL-T5 at: http://________________________.” 
+
+Where: 
+RC: Recipient Confidential [Recipients Information is not treated as confidential, but the Recipient must treat sender’s information as confidential]
+
+RNB: Recipient Business [Recipients Information can be commercialized confidential, but the Recipient cannot commercialize Senders Information]
+
+SJ: Governing Jurisdiction is of Sender 
+
+SL: Governing Law is Recipient 
+
+T: Term 
+
+This may be done using this framework:
+S: Sender
+R: Recipient 
+NB: No-Business
+C: Confidentiality Obligation 
+B: Business
+L: Law 
+J: Jurisdiction
+T: Term
+
+For Law and Jurisdiction any of the UPU Codes for nations may be used. In countries with more than one jurisdiction please specify the relevant ISO3166 subdivision code. Where a party has specified GB or UK, it will be treated as the Party having specified England and Wales unless the party has specified otherwise. 
+
+
